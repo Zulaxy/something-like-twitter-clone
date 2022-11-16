@@ -1,0 +1,10 @@
+.main {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  border: 2px solid black;
+  padding: 15px;
+  margin: 12px;
+  width: 60%;
+  border-radius: 12px;
+}
